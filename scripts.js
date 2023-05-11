@@ -1,4 +1,4 @@
-const images = ['images/Hidden_By_Thunder_p1.png','images/Hidden_By_Thunder_p2.png','images/Hidden_By_Thunder_p3.png',];
+const images = ['images/Hidden_By_Thunder_p1.png','images/Hidden_By_Thunder_p2.png','images/Hidden_By_Thunder_p3.png'];
 let index = 0;
 
 window.addEventListener('load', () => {
